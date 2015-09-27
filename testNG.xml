@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sepbatch" parallel="false">
+      <test name="RegSet1">
+  	  <groups>
+      <run>
+      <include name="SmokeTest"/>
+    
+      </run>
+      </groups>
+     <classes>
+            <class  name="April.githublearning" />
+            
+        </classes>
+    </test>
+            
+   
+</suite>
