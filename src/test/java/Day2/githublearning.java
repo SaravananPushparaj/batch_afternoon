@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 		{
 			
 			System.out.println("Hello world");
+			System.out.println("Welcome");
 			
 			
 			
